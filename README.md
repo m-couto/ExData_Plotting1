@@ -1,3 +1,8 @@
+# Plotting in R
+
+This repository contains exercises on practicing plotting in R. It is the first assignment of the course Exploratory Data Analysis, part of the Data Science specialization.
+
+
 ## Introduction
 
 This assignment uses data from
