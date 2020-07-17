@@ -5,4 +5,8 @@ This repository contains exercises on plotting in R. The point of this assignmen
 
 ## Explanation of files
 
-- 'instructions.md'
+- `instructions.md`: the instructions for this assignment.
+- `figure` folder: contains annexes of the previous file, which are precisely the four pictures I had to plot in this assignment.
+
+- `plot*.R`: these contain the code for the 4 plots.
+- `plot*.png`: the picture files with the plots.
